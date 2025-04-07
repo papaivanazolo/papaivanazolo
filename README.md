@@ -1,16 +1,3 @@
-## Hi there 👋
-
-<!--
-**papaivanazolo/papaivanazolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on walk
-- 🌱 I’m currently learning net
-- 👯 I’m looking to collaborate on ne
-- 🤔 I’m looking for help with ne pomogy
-- 💬 Ask me about net
-- 📫 How to reach me: net
-- 😄 Pronouns: hahag
-- ⚡ Fun fact: invalid
--->
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">ivanzolo</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
